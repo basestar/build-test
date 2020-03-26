@@ -10,11 +10,11 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>github-release</id>
+            <id>github</id>
             <url>https://maven.pkg.github.com/basestar/build-test</url>
         </snapshotRepository>
         <repository>
-            <id>github-release</id>
+            <id>github</id>
             <url>https://maven.pkg.github.com/basestar/build-test</url>
         </repository>
     </distributionManagement>
