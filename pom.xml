@@ -11,14 +11,14 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/basestar</url>
+            <url>https://maven.pkg.github.com/basestar/test</url>
         </repository>
     </distributionManagement>
 
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/basestar</url>
+            <url>https://maven.pkg.github.com/basestar/test</url>
         </repository>
     </repositories>
 
